@@ -16,7 +16,7 @@ The goal of this project was to practice DOM manipulation, event handling, and f
 
 🔗 https://mayuresh-2601.github.io/Todo-List/
 
----
+---         
 
 ## 🎯 Key Features
 
