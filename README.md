@@ -2,7 +2,7 @@
 
 ![Todo List Banner](./preview.png)
 
-## 📌 Project Overview
+## 📌 Project Overview    
 
 This project is a fully responsive and interactive **Todo List application** built using **HTML, CSS, and JavaScript**.
 
